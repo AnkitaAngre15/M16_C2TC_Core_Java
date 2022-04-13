@@ -1,4 +1,4 @@
-package in.cg.git;
+\\package in.cg.git;
 
 public class Class1 {
 
