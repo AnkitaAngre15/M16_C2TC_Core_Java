@@ -1,7 +1,5 @@
 package in.cg.inherit;
 
-
-
 class Samsung{
 	void accept() {
 		System.out.println("Samsung Galaxy");
