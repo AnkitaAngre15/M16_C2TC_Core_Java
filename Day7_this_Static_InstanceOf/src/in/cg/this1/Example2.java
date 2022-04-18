@@ -4,7 +4,6 @@ public class Example2 {
 	
 	String str;
 	Example2(){
-		
 	}
 	Example2(String str){
 		

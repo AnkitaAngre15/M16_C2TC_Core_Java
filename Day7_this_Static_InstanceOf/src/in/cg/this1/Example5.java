@@ -4,7 +4,7 @@ public class Example5 {
 	
 	int x;
 	Example5(){
-		this(25);
+		this(23);
 		System.out.println("Ankita");
 	}
 	Example5(int x){
