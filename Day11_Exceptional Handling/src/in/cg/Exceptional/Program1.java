@@ -1,0 +1,30 @@
+package in.cg.Exceptional;
+
+public class Program1 {
+
+	public static void main(String[] args) {
+		
+		try
+		{
+		int x=12/0;
+		System.out.println(x);
+		}
+		catch(Exception e)
+		{
+		
+		System.out.println("Exception Handled " +e);
+
+	}
+		
+	}
+}
+
+
+
+
+
+
+
+
+
+
